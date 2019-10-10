@@ -37,7 +37,7 @@ Settings --> Properties
 Copy ServerName and LogOnName to local Editor Window
 
 
-jdbc:mysql://{MySQL Server Name}:3306/alm?useSSL=true&requireSSL=false&autoReconnect=true&user={your user name}&password={your password}
+```jdbc:mysql://{MySQL Server Name}:3306/alm?useSSL=true&requireSSL=false&autoReconnect=true&user={your user name}&password={your password}```
 
 Replace with own settings
 
